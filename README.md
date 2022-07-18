@@ -30,6 +30,6 @@ ___
 
 **Основная задача проекта** - Изучение возможностей Tilemap совместно с использованием NavMeshPlus В Unity3D и плагина Joystick Pack.
 
-*Демонстрация финальной части игрового процесса:*
+*Демонстрация части процесса:*
 
 ![2D Wolker](https://github.com/iFEL1x/iFEL1x/blob/main/Resources/Image/Gif/mp4%20to%20GIF(2D%20Wolker).mp4.gif)
