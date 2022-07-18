@@ -1,6 +1,6 @@
 # <p align="center"> 2D Walker (study)</p>
 
-<div align="Center">
+<div align="Center" width="200px">
     <img src = https://github.com/iFEL1x/iFEL1x/blob/main/Resources/Screenshots/Screen(2D%20Wolker)(0).png>
 </div>
 
