@@ -1,7 +1,7 @@
 # <p align="center"> 2D Walker (study)</p>
-  
+
 <div align="Center">
-    <img src = https://github.com/iFEL1x/iFEL1x/blob/main/Resources/Screenshots/Screen(Platformer%202D)(1).png height="300">
+    <img src = https://github.com/iFEL1x/iFEL1x/blob/main/Resources/Screenshots/Screen(2D%20Wolker)(0).png   height="300">
 </div>
 
 ## Описание проекта
