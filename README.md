@@ -1,7 +1,7 @@
 # <p align="center"> 2D Walker (study)</p>
 
 <div align="Center">
-  <img src="https://github.com/iFEL1x/iFEL1x/blob/main/Resources/Screenshots/Screen(2D%20Wolker)(0).png%3E" style="max-width: 200px;"
+  <img src="https://github.com/iFEL1x/iFEL1x/blob/main/Resources/Image/Gif/mp4%20to%20GIF(2D%20Wolker).mp4.gif" style="max-width: 200px;"
 </div>
 
 
